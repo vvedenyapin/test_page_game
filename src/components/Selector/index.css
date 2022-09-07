@@ -1,0 +1,17 @@
+.selector {
+    border: 1px solid rgb(196, 196, 196);
+    padding: 0.5rem;
+    width: 9rem;
+    margin: 0 1rem;
+}
+
+.selector_select:hover {
+    cursor: pointer;
+}
+
+.selector_select {
+    font-size: 14px;
+    border: none;
+    width: 100%;
+    background: white;
+}
